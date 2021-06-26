@@ -19,3 +19,4 @@ bld/
 
 # Coverage
 *.opencover.xml
+/.vs
